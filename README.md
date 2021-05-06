@@ -2,12 +2,13 @@
 # Welcome to Stargram, 
 This is clone of Instagram login initial.
 I added some changes like a night version inspired by Star Wars. Where when changing the initial photo, name and other information change.
+Test on this [LINK](https://felipeaguiarn.github.io/stargram/)
 
 ## Functionalities:
 - Responsive
 
 
-Test on this [LINK](https://felipeaguiarn.github.io/stargram/)
+
 
 ## Developed 
 In HTML, CSS (FlexBox) and Javascript.
