@@ -1,7 +1,7 @@
 Bem vindo ao Stargram, 
 Esse projeto é um clone da pagina de login do Instagram.
 Fiz algumas alterações com referência a franquia Star Wars, inluindo opção de tema escuro.
-Test on this [LINK](https://felipeaguiarn.github.io/stargram/)
+Veja como funciona nesse [LINK](https://felipeaguiarn.github.io/stargram/)
 
 ## Functionalidades:
 - Responsividade
